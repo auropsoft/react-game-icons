@@ -1,0 +1,24 @@
+{
+  "name": "react-game-icons",
+  "version": "1.0.0",
+  "description": "React SVG elements for game-icons.net collection of icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auropsoft/react-game-icons.git"
+  },
+  "keywords": [
+    "reactjs",
+    "icons",
+    "game"
+  ],
+  "author": "Kevin Sijbers",
+  "license": "CC-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/auropsoft/react-game-icons/issues"
+  },
+  "homepage": "https://github.com/auropsoft/react-game-icons#readme"
+}
